@@ -19,52 +19,20 @@ A Python-based web scraper that extracts data from websites and saves it into a 
 - **Files**: 
   - [dummy.json](./JsonToCsv/dummy.json)
   - [main.py](./JsontoCsv/main.py)
-- **Documentation**: [Web Scraper Documentation](./JsonToCsv/README.md)
+- **Documentation**: [Json to CSV Documentation](./JsonToCsv/README.md)
 
 [Back to Top](#table-of-contents)
 
 ---
 
-## Project 2: Machine Learning Model
+## Project 2: WEBP to Png
 
-A machine learning model built using TensorFlow and Keras to predict housing prices based on various features.
+A Python-based webp to png converter
 
-- **Description**: This project demonstrates how to build, train, and evaluate a regression model to predict housing prices. The dataset used is the popular Boston Housing dataset.
-- **Technologies Used**: Python, TensorFlow, Keras, Scikit-learn.
-- **Files**:
-  - [housing_model.ipynb](./project2/housing_model.ipynb)
-  - [data.csv](./project2/data.csv)
-- **Documentation**: [Machine Learning Model Documentation](./project2/README.md)
-
-[Back to Top](#table-of-contents)
-
----
-
-## Project 3: Game Development
-
-A simple 2D game developed using the Pygame library in Python.
-
-- **Description**: This project is a basic 2D platformer game where the player controls a character that can jump over obstacles and collect items. It's a great starting point for learning game development.
-- **Technologies Used**: Python, Pygame.
-- **Files**:
-  - [main.py](./project3/main.py)
-  - [assets/](./project3/assets/)
-- **Documentation**: [Game Development Documentation](./project3/README.md)
-
-[Back to Top](#table-of-contents)
-
----
-
-## Project 4: Data Visualization
-
-A data visualization project that uses Matplotlib and Seaborn to create insightful charts and graphs from a dataset.
-
-- **Description**: This project focuses on visualizing data trends and patterns using Python's popular visualization libraries. It includes bar charts, line graphs, and heatmaps.
-- **Technologies Used**: Python, Matplotlib, Seaborn, Pandas.
-- **Files**:
-  - [visualization.ipynb](./project4/visualization.ipynb)
-  - [dataset.csv](./project4/dataset.csv)
-- **Documentation**: [Data Visualization Documentation](./project4/README.md)
+- **Description**: This project allows users to convert webp file to png file
+- **Technologies Used**: Python
+- **Files**: 
+  - [main.py](./WebpToPng/main.py)
 
 [Back to Top](#table-of-contents)
 
@@ -93,8 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: dev@antlerslabs.dev
+- **GitHub**: [Antlers Labs](https://github.com/AntlersLabs)
 
 ---
 
