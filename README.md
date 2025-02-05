@@ -7,6 +7,8 @@ Welcome to the **Labs**! This repository hosts a collection of our various proje
 ## Table of Contents
 
 1. [Project 1: Json to CSV](#json-to-csv)
+2. [Project 2: Webp to Png](#webp-to-png)
+3. [Project 3: Data Visualizer](#data-visualizer)
 
 ---
 
@@ -33,6 +35,18 @@ A Python-based webp to png converter
 - **Technologies Used**: Python
 - **Files**: 
   - [main.py](./WebpToPng/main.py)
+
+[Back to Top](#table-of-contents)
+
+---
+## Project 3: Data Visualizer
+
+React based Data visualizer
+
+- **Description**: This project allows users visualize their CSV, XLS, JSON data to charts.
+- **Technologies Used**: TypeScript, React js, Tailwind css
+- **Files**: 
+  - [Data Visual](./DataVisual)
 
 [Back to Top](#table-of-contents)
 
